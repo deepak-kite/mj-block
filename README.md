@@ -1,4 +1,8 @@
-A basic Guttenberg block WP plugin created by Deepak.
+A basic Guttenberg blocks WP plugin created by Deepak.
+
+It has 2 blocks:
+- Default block created using create-guten-block.
+- Custom block named "MJ Hero Banner" that allows you to upload an hero image and insert it's title and description.
 
 Below you will find some information on how to run scripts.
 
